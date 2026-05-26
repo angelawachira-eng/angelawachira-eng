@@ -39,16 +39,6 @@ Building predictive systems using Machine Learning, Analytics, and AI-driven dec
 
 ---
 
-## 📊 GitHub Stats
-
-![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelawachira-eng&show_icons=true&theme=default&hide_border=true)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelawachira-eng&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 🚀 Featured Projects
 
 ### 💉 Vaccine Prediction Machine Learning Analysis
