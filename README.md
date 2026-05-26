@@ -44,11 +44,17 @@ Building predictive systems using Machine Learning, Analytics, and AI-driven dec
 ### 💉 Vaccine Prediction Machine Learning Analysis
 Built machine learning models to analyze vaccination-related trends using data preprocessing and predictive analytics techniques.
 
+🔗 GitHub Repository: https://github.com/angelawachira-eng/H1N1_and_Seasonal_Flu_Vaccines---ML_Project
+
 ### 🎓 Student Risk & Employability Analysis
 Predictive analytics project focused on identifying academic risk patterns and employability outcomes.
 
+🔗 GitHub Repository:  https://github.com/angelawachira-eng/CAPSTONE---AI-POWERED-STUDENT-RISK-EMPLOYABILITY-PREDICTOR
+
 ### 🎬 Hybrid Movie Recommendation System
-Built a hybrid recommendation system combining collaborative and content-based filtering techniques.
+Contributed to building a hybrid recommendation system combining collaborative and content-based filtering techniques.
+
+🔗 GitHub Repository: https://github.com/angelawachira-eng/GROUP_2-MOVIE_RECOMMENDATION_SYSTEM
 
 ### 📊 Business Intelligence & Data Visualization
 Developed interactive dashboards using Tableau and Power BI for data-driven insights.
